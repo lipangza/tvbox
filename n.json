@@ -1,6 +1,6 @@
-//本地配置地址 clan://localhost/tvboxlc/n.json
+//本地配置地址 https://lipangza.github.io/localhost/tvboxlc/n.json
 {
-    "spider":"clan://tvboxlc/jar/fty.jar",
+    "spider":"https://lipangza.github.io/tvboxlc/jar/fty.jar",
     "sites":[
         {
             "key":"TVbox",
@@ -171,7 +171,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"clan://tvboxlc/ext/zxzj.json"
+            "ext":"https://lipangza.github.io/tvboxlc/ext/zxzj.json"
         },
         {
             "key":"动漫巴士",
@@ -181,7 +181,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"clan://tvboxlc/ext/dm84.json"
+            "ext":"https://lipangza.github.io/tvboxlc/ext/dm84.json"
         },
         {
             "key":"干饭",
@@ -220,7 +220,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"clan://tvboxlc/ext/Bili.json"
+            "ext":"https://lipangza.github.io/tvboxlc/ext/Bili.json"
         },
         {
             "key":"相声小品",
@@ -230,7 +230,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":1,
-            "ext":"clan://tvboxlc/ext/Bili_xs.json"
+            "ext":"https://lipangza.github.io/tvboxlc/ext/Bili_xs.json"
         },
         {
             "key":"国粹戏曲",
@@ -240,7 +240,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":1,
-            "ext":"clan://tvboxlc/ext/Bili_xq.json"
+            "ext":"https://lipangza.github.io/tvboxlc/ext/Bili_xq.json"
         },
         {
             "key":"女团热舞",
@@ -250,7 +250,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":1,
-            "ext":"clan://tvboxlc/ext/Bili_rw.json"
+            "ext":"https://lipangza.github.io/tvboxlc/ext/Bili_rw.json"
         },
         {
             "key":"歌曲MV",
@@ -260,7 +260,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":1,
-            "ext":"clan://tvboxlc/ext/Bili_gq.json"
+            "ext":"https://lipangza.github.io/tvboxlc/ext/Bili_gq.json"
         },
         {
             "key":"UpYun",
