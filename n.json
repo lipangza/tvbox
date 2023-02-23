@@ -1,6 +1,6 @@
 //本地配置地址 clan://localhost/tvboxlc/n.json
 {
-    "spider":"clan://tvboxlc/jar/fty.jar",
+    "spider":"clan://tvbox/jar/fty.jar",
     "sites":[
         {
             "key":"TVbox",
